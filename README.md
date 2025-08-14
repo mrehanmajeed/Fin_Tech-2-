@@ -42,8 +42,11 @@ openpyxl==3.1.2
 xlrd==2.0.1
 jupyter==1.0.0
 
-## Run in Jupyter Notebook:
+## Run in Jupyter Notebook or CMD:
 jupyter notebook
+
+CMD Command:
+python FIN_TECH(2).py
 
 ## 🛠 Switching to Full BF + DP Mode
 
